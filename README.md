@@ -10,7 +10,7 @@
 
 - 💻 Passionate about **C++, DSA & Competitive Programming**
 - 🚀 Love building practical software and useful tools
-- 🤖 Exploring **AI systems, Agentic AI & real-world AI applications**
+
 - 📈 Interested in Finance + AI + Agentic Workflows
 - 🌱 Currently learning Web Development & Problem Solving
 - ⚡ Strong believer in consistency and continuous improvement
