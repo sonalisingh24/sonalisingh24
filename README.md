@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Sonali%20Singh&fontSize=40&fontcolor=38BDF8&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38BDF4&height=180&section=header&fontSize=40&animation=fadeIn&fontAlignY=35"/>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1500&color=38BDF8&center=true&vCenter=true&width=900&lines=Hello+👋,+I'm+Sonali;Welcome+to+my+GitHub+Profile"/>
