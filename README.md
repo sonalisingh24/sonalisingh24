@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38BDF4&height=180&section=header&fontSize=40&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#7DD3FC4&height=180&section=header&fontSize=40&animation=fadeIn&fontAlignY=35"/>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1500&color=38BDF8&center=true&vCenter=true&width=900&lines=Hello+👋,+I'm+Sonali;Welcome+to+my+GitHub+Profile"/>
@@ -8,9 +8,8 @@
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<h2 align="center">🙋‍♀️About me</h2>
+<h2 align="left">🙋‍♀️About me</h2>
 
 - 💻 Passionate about **C++, DSA & Competitive Programming**
 - 🚀 Love building practical software and useful tools
@@ -21,7 +20,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ---
 
@@ -31,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,python,js" />
 </p>
 
----
+
 
 ## 🌐 Web Development
 
@@ -39,7 +38,7 @@
 <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
----
+
 
 ## 🤖 Android Development
 
@@ -47,7 +46,7 @@
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle" />
 </p>
 
----
+
 
 ## 🗄️ Database
 
@@ -55,7 +54,7 @@
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
----
+
 
 ## ⚒️ Tools
 
@@ -112,7 +111,7 @@
 </a>
 
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#7DD3FC8&height=120&section=footer"/>
 
 ---
 
