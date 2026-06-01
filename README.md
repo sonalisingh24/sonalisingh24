@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-## 👩‍💻 About Me
+<h2 align="center">🙋‍♀️About me</h2>
 
 - 💻 Passionate about **C++, DSA & Competitive Programming**
 - 🚀 Love building practical software and useful tools
@@ -21,84 +21,54 @@
 
 ---
 
-## ⚒️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br>C++
-</td>
+---
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
+## 💻 Languages
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python,js" />
+</p>
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br>HTML
-</td>
+---
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br>CSS
-</td>
-</tr>
+## 🌐 Web Development
 
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
+---
 
+## 🤖 Android Development
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle" />
+</p>
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
+---
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-<br>Kotlin
-</td>
-</tr>
+## 🗄️ Database
 
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-<br>Android Studio
-</td>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="Gradle" />
-<br>Gradle
-</td>
+---
 
+## ⚒️ Tools
 
-
-
-</tr>
-</table>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 ---
 
 
 
 
 
-## 🚀 Featured Project
+<h2 align="center">🚀 Featured Project</h2>
 
 ### 📄 PDFedi : Android PDF Editor
 
@@ -109,7 +79,11 @@
 
 ---
 
-## 📊 GitHub Stats
+
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+
 
 <p align="center">
 
@@ -121,9 +95,9 @@
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:sonalisinghh24@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
