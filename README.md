@@ -66,14 +66,14 @@
 
 
 
-
+---
 <h2 align="center">🚀 Featured Project</h2>
 
 ### 📄 PDFedi : Android PDF Editor
 
 - Built using **Kotlin & Android Studio**
 - Supports PDF viewing and management
-- Worked on UI improvements and PDF handling
+
 - Learned Android project structure & Gradle ecosystem
 
 ---
