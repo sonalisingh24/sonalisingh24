@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonali Singh</h1>
 
-<h3 align="center">
-CSE Student • C++ Enthusiast • DSA Learner • Building Real-World Tools
-</h3>
+
 
 ---
 
@@ -13,8 +11,8 @@ CSE Student • C++ Enthusiast • DSA Learner • Building Real-World Tools
 - 💻 Passionate about **C++, DSA & Competitive Programming**
 - 🚀 Love building practical software and useful tools
 - 🤖 Exploring **AI systems, Agentic AI & real-world AI applications**
-- 📈 Interested in **Finance + Technology**
-- 🌱 Currently learning **Web Development & System Design**
+- 📈 Interested in Finance + AI + Agentic Workflows
+- 🌱 Currently learning Web Development & Problem Solving
 - ⚡ Strong believer in consistency and continuous improvement
 
 ---
@@ -31,7 +29,7 @@ CSE Student • C++ Enthusiast • DSA Learner • Building Real-World Tools
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
@@ -39,28 +37,24 @@ CSE Student • C++ Enthusiast • DSA Learner • Building Real-World Tools
 
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
+
 </p>
 
 ---
 
-## 🧠 Problem Solving
 
-- 📌 Solving DSA problems regularly
-- ⚡ Interested in Competitive Programming
-- 🧩 Love algorithms, optimization & logical thinking
-- 💪 Focused on improving problem-solving skills every day
 
 ---
 
 ## 🚀 Featured Project
 
-### 📄 PDFedi — Android PDF Editor
+### 📄 PDFedi : Android PDF Editor
 
 - Built using **Kotlin & Android Studio**
 - Supports PDF viewing and management
@@ -93,6 +87,4 @@ CSE Student • C++ Enthusiast • DSA Learner • Building Real-World Tools
 
 ---
 
-<h3 align="center">
-✨ “Code. Learn. Build. Repeat.” ✨
-</h3>
+
